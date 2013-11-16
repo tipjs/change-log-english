@@ -1,6 +1,6 @@
 # ChangeLog 를 지탱하는 영어
 
-[원문](https://gist.github.com/hayajo/3938098)
+[원문](https://gist.github.com/hayajo/3938098) - [https://gist.github.com/hayajo/3938098](https://gist.github.com/hayajo/3938098)
 
 ![](http://cdn-ak.f.st-hatena.com/images/fotolife/h/hayajo_prpr/20130118/20130118093039.jpg?1358469248)
 
